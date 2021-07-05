@@ -56,16 +56,16 @@ main {
 @keyframes animate {
     0%,
     100% {
-        background-image: url(./Transition/1.jpg);
+        background-image: url(../Transition/1.jpg);
     }
     25% {
-        background-image: url(./Transition/2.jpg);
+        background-image: url(../Transition/2.jpg);
     }
     50% {
-        background-image: url(./Transition/3.jpg);
+        background-image: url(../Transition/3.jpg);
     }
     75% {
-        background-image: url(./Transition/4.jpg);
+        background-image: url(../Transition/4.jpg);
     }
 }
 
