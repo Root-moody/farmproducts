@@ -93,7 +93,7 @@ main {
 
 /*-----------------------------RESPONSIVE CSS----------------------------*/
 
-@media(max-width: 860px) {
+@media(max-width:860px) {
     .textdescription {
         font-size: 25px;
     }
@@ -102,7 +102,7 @@ main {
     }
 }
 
-@media(max-width: 432px) {
+@media(max-width:432px) {
     .textdescription {
         font-size: 20px;
     }
