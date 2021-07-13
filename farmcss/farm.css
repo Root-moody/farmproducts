@@ -91,34 +91,34 @@ main {
 }
 
 
-/*-----------------------------RESPONSIVE CSS----------------------------*/
+/*-----------------------------RESPONSIVE CSS----------------------------*/
 
-@media(max-width:860px) {
-    .textdescription {
-        font-size: 25px;
-    }
-    .nav-link {
-        font-size:17px;
-    }
+@media screen and (max-width: 860px) {
+    .textdescription {
+        font-size: 25px;
+    }
+    .nav-link {
+        font-size: 17px;
+    }
 }
 
-@media(max-width:432px) {
-    .textdescription {
-        font-size: 20px;
-    }
+@media screen and (max-width: 432px) {
+    .textdescription {
+        font-size: 20px;
+    }
 }
 
-@media(max-width:800px) {
-    .logo {
-        display: none;
-    }
+@media screen and (max-width:800px) {
+    .logo {
+        display: none;
+    }
 }
 
-@media(max-width:353px) {
-    .textdescription {
-        font-size: 16px;
-    }
-    .nav-link {
-        font-size: 12px;
-    }
+@media screen and (max-width:353px) {
+    .textdescription {
+        font-size: 16px;
+    }
+    .nav-link {
+        font-size: 12px;
+    }
 }
