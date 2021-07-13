@@ -95,10 +95,10 @@ main {
 
 @media(max-width:860px) {
     .textdescription {
-        font-size: 25px;
+        font-size: 25px;
     }
     .nav-link {
-        font-size: 17px;
+        font-size:17px;
     }
 }
 
